@@ -2,7 +2,7 @@
 # Chapt1
 - [homework1.1-计算bragg曲线](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.1/BraggCurve.html)
 - homework1.2-望远镜法
-   - [验证能量损失本领与入射粒子的质量数A无关](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/1.checkdedxvsA.html
+   - [验证能量损失本领与入射粒子的质量数A无关](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/1.checkdedxvsA.html)
    - [计算入射粒子射程](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/2.he4depth.html)
    - [计算入射粒子在探测器中的能损](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/3.he4elossindect.html)
    - [He同位素的望远镜粒子鉴别](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/4.PID-He.html)
