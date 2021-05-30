@@ -14,3 +14,5 @@
 # chapt3
 - [HpGe gamma探测器刻度](https://dragon-xi.github.io/zhli-exp-meth-homework/homework3.1/HPGecalibration.html)
 - [作业1.2中加入探测器分辩](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/6.PIDRes-function.html)
+
+zhli-exp-meth-homework
