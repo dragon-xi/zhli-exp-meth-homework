@@ -5,7 +5,7 @@
 - [《核物理与粒子物理实验方法》](https://zhihuanli.github.io/Experimental-Method-in-Nuclear-Physics/)
 - [《核物理实验数据分析与处理》](https://zhihuanli.github.io/Experimental-Data-Analysis-Course/)
 ## 本人完成作业期间汇总的ROOT代码
-- [ROOT命令个人总结（20210529）](https://dragon-xi.github.io/zhli-data-ana-homework/roottips_xi.html)
+- [ROOT命令个人总结](https://dragon-xi.github.io/zhli-data-ana-homework/roottips_xi.html)
 # Chapt1
 - [homework1.1-计算bragg曲线](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.1/BraggCurve.html)
 - homework1.2-望远镜法
