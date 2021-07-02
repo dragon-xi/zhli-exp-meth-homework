@@ -15,6 +15,7 @@
    - [He同位素的望远镜粒子鉴别](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/4.PID-He.html)
    - [画出一系列同位素的粒子鉴别图](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/5.PID-function.html)
    - [加入探测器分辨-homework3.2](https://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/6.PIDRes-function.html)
+   - [PID for 401](ttps://dragon-xi.github.io/zhli-exp-meth-homework/homework1.2/7.PID-401experiment.html)
 # chapt2
 - [指数分布和朗道分布验证中心极限定理](https://dragon-xi.github.io/zhli-exp-meth-homework/homework2.1/checkCLT.html)
 - [飞行时间法测中子能量相对误差](https://dragon-xi.github.io/zhli-exp-meth-homework/homework2.2/errorofEcalculatedbyToF.html)
